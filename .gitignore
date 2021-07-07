@@ -40,11 +40,11 @@ lerna-debug.log*
 
 # dependencies
 /cr-front/node_modules
-#/cr-front/.pnp
+/cr-front/.pnp
 .pnp.js
 .vscode/
 # testing
-/cr-front/coverage
+#/cr-front/coverage
 
 # production
 /cr-front/build
