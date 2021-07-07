@@ -39,15 +39,15 @@ lerna-debug.log*
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/cr-front/node_modules
-/cr-front/.pnp
+/front/node_modules
+/front/.pnp
 .pnp.js
 .vscode/
 # testing
-/cr-front/coverage
+/front/coverage
 
 # production
-#/cr-front/build
+/front/build
 
 # misc
 .DS_Store
