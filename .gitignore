@@ -44,10 +44,10 @@ lerna-debug.log*
 .pnp.js
 .vscode/
 # testing
-#/cr-front/coverage
+/cr-front/coverage
 
 # production
-/cr-front/build
+#/cr-front/build
 
 # misc
 .DS_Store
